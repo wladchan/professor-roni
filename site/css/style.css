@@ -1,0 +1,29 @@
+
+body {
+    scroll-behavior: smooth;
+}
+
+#inicio {
+    background: #f2f2f2;
+}
+
+h1 {
+    color: #222;
+    font-weight: 700;
+}
+
+.nav-link:hover {
+    color: #0d6efd;
+}
+
+section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
